@@ -1,4 +1,0 @@
-Clock
-=====
-
-Simple digital clock
